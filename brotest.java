@@ -5,7 +5,7 @@ import org.junit.*;
 public class brotest{
     @Test
     public void add() {
-        assertEquals(3, 1+1);
+        assertEquals(2, 1+1);
 
     }
 }
